@@ -1,0 +1,39 @@
+{
+    "fileLocations": [
+        {
+            "URIs": [
+                "https://s3capstonebucket.s3.amazonaws.com/DeliveryStreamJson/capstone-delivery-1-2023-05-25-05-10-22-45faf431-3991-4434-be99-5f6c327a41f1+(1).json",
+                "https://s3capstonebucket.s3.amazonaws.com/DeliveryStreamJson/capstone-delivery-1-2023-05-25-05-11-08-9919c652-4d8f-4f51-933e-c83ddebd3d86.json",
+                "https://s3capstonebucket.s3.amazonaws.com/DeliveryStreamJson/capstone-delivery-1-2023-05-25-05-13-38-92e543ff-d76f-43f2-9716-eefffd5b55aa.json",
+                "https://s3capstonebucket.s3.amazonaws.com/DeliveryStreamJson/capstone-delivery-1-2023-05-25-05-16-20-68d1f368-492a-4d64-b1f1-423872c48685.json",
+                "https://s3capstonebucket.s3.amazonaws.com/DeliveryStreamJson/capstone-delivery-1-2023-05-25-05-17-34-cbbad6a5-9aa7-424f-b56b-dd65f1bc7083.json",
+                "https://s3capstonebucket.s3.amazonaws.com/DeliveryStreamJson/capstone-delivery-1-2023-05-25-05-18-52-4a4f6b8a-8e29-45fa-8d64-bd6c74969061.json",
+                "https://s3capstonebucket.s3.amazonaws.com/DeliveryStreamJson/capstone-delivery-1-2023-05-25-05-20-30-5f0e772b-a1d3-429e-b0ad-b34480a6328c.json",
+                "https://s3capstonebucket.s3.amazonaws.com/DeliveryStreamJson/capstone-delivery-1-2023-05-25-05-22-36-13a8e376-0bba-461c-94c8-f56a4d9cc0dd.json",
+                "https://s3capstonebucket.s3.amazonaws.com/DeliveryStreamJson/capstone-delivery-1-2023-05-25-05-24-01-1cce131e-6d93-40d7-ac96-17bd9621f200.json",
+                "https://s3capstonebucket.s3.amazonaws.com/DeliveryStreamJson/capstone-delivery-1-2023-05-25-05-25-45-81a90226-bc39-4908-ae9d-2ff618772e26.json",
+                "https://s3capstonebucket.s3.amazonaws.com/DeliveryStreamJson/capstone-delivery-1-2023-05-25-05-27-58-2f1e0f9e-816f-46a9-92fa-a388f97978ec.json",
+                "https://s3capstonebucket.s3.amazonaws.com/DeliveryStreamJson/capstone-delivery-1-2023-05-25-05-30-45-0324ae31-295b-4dc9-bd9a-4140ea3a2978.json",
+                "https://s3capstonebucket.s3.amazonaws.com/DeliveryStreamJson/capstone-delivery-1-2023-05-25-05-33-07-a20be32c-c3ff-4c5f-9bbd-62166e8034a3.json",
+                "https://s3capstonebucket.s3.amazonaws.com/DeliveryStreamJson/capstone-delivery-1-2023-05-25-05-35-47-56a7426e-7a57-44e1-a20f-677e0b7fb708.json",
+                "https://s3capstonebucket.s3.amazonaws.com/DeliveryStreamJson/capstone-delivery-1-2023-05-25-05-37-04-2cddda0d-fc0a-491e-8e03-6f5b27b5271f.json",
+                "https://s3capstonebucket.s3.amazonaws.com/DeliveryStreamJson/capstone-delivery-1-2023-05-25-05-38-09-df0fe917-7da3-4ec1-9fe6-92425893447a.json",
+                "https://s3capstonebucket.s3.amazonaws.com/DeliveryStreamJson/capstone-delivery-1-2023-05-25-05-40-48-bcc74286-5fbb-456f-b462-1ff155cda58e.json",
+                "https://s3capstonebucket.s3.amazonaws.com/DeliveryStreamJson/capstone-delivery-1-2023-05-25-05-42-55-4a03f334-6c5e-4a7c-9f2f-bc49b79b4e53.json",
+                "https://s3capstonebucket.s3.amazonaws.com/DeliveryStreamJson/capstone-delivery-1-2023-05-25-05-43-14-e36030cb-4448-422b-8e93-d29ae3101034.json",
+                "https://s3capstonebucket.s3.amazonaws.com/DeliveryStreamJson/capstone-delivery-1-2023-05-25-05-44-27-00ef717b-60f9-4c36-b0df-56779ff84ff9.json",
+                "https://s3capstonebucket.s3.amazonaws.com/DeliveryStreamJson/capstone-delivery-1-2023-05-25-05-45-49-5a830bbf-3752-450c-997d-738f4b2a62d2.json",
+                "https://s3capstonebucket.s3.amazonaws.com/DeliveryStreamJson/capstone-delivery-1-2023-05-25-05-47-56-a7b4a06d-2efc-48fb-bb40-8bfa0f1c884e.json",
+                "https://s3capstonebucket.s3.amazonaws.com/DeliveryStreamJson/capstone-delivery-1-2023-05-25-05-48-15-54b7857f-d14f-4061-aff1-9fba09f4c73e.json",
+                "https://s3capstonebucket.s3.amazonaws.com/DeliveryStreamJson/capstone-delivery-1-2023-05-25-05-50-57-24fcc358-589e-4f1d-805e-739e62406818.json",
+                "https://s3capstonebucket.s3.amazonaws.com/DeliveryStreamJson/capstone-delivery-1-2023-05-25-05-51-56-c37e599d-c653-46d6-91e3-91b25184dd81.json"
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "JSON",
+        "delimiter": ",",
+        "textqualifier": "'"
+    }
+}
+                            
